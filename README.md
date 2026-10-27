@@ -21,9 +21,8 @@ Full Stack Developer skilled in the MERN stack, Next.js, and modern web technolo
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gyan3ndra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
----
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyan3ndra&icon=0&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gyan3ndra&icon=0" alt="Profile Views" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
