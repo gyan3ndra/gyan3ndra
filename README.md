@@ -22,7 +22,9 @@ Full Stack Developer skilled in the MERN stack, Next.js, and modern web technolo
 
 </div>
 ---
-[![](https://komarev.com/ghpvc/?username=gyan3ndra&icon=0&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gyan3ndra&icon=0&color=6" alt="Profile Views" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
